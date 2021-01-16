@@ -7,3 +7,7 @@ I work on exercises from several different sources, incluing:
 ### Burguer Builder
 
 A Web application for building a Hamburger, crafted in React with Redux, Redux-Saga and React Hooks.
+
+### Hacker Rank
+
+Solutions for Hacker Rank.
