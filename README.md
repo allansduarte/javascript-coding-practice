@@ -8,6 +8,10 @@ I work on exercises from several different sources, incluing:
 
 A Web application for building a Hamburger, crafted in React with Redux, Redux-Saga and React Hooks.
 
-### Hacker Rank
+### HackerRank
 
-Solutions for Hacker Rank.
+Solutions for HackerRank.
+
+### CodeSignal
+
+Solutions for CodeSignal.
