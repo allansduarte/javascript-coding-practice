@@ -1,3 +1,4 @@
+// O(1) time | O(1) space
 function shapeArea(n) {
     if (n < 1 || n > 10000) return;
 

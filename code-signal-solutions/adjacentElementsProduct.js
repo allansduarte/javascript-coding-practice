@@ -1,3 +1,4 @@
+// O(n) time | O(1) space
 function adjacentElementsProduct(inputArray) {
     if (inputArray.length < 2 || inputArray.length > 10) return;
 

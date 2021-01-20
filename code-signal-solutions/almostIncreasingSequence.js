@@ -1,3 +1,4 @@
+// O(n) time | O(1) space
 function almostIncreasingSequence(sequence) {
     var isFirst = true;
     for (var i = 0; i < sequence.length; i++) {
