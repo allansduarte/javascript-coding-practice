@@ -1,3 +1,4 @@
+// O(1) time | O(1) space
 function timeConversion(s) {
     let time = s.split(":");
     let hour = parseInt(time[0]);

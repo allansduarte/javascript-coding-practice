@@ -1,3 +1,4 @@
+// O(1) time | O(1) space
 function compareTriplets(a, b) {
     let score = [0, 0];
     if (a[0] > b[0]) {

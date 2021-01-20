@@ -1,3 +1,4 @@
+// O(n) time | O(1) space
 function plusMinus(arr) {
     let numPositive = 0;
     let numNegative = 0;

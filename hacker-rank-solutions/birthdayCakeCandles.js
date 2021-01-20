@@ -1,3 +1,4 @@
+// O(n) time | O(1) space
 function birthdayCakeCandles(candles) {
     let tallestCandle = 0;
     let tallestCandleCounter = 0;
