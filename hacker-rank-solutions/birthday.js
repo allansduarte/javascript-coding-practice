@@ -1,3 +1,4 @@
+// O(n) time | O(1) space
 function birthday(s, d, m) {
     let counter = 0;
     const reducer = (a, b) => a + b;
