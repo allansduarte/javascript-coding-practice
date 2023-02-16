@@ -15,3 +15,7 @@ Solutions for HackerRank.
 ### CodeSignal
 
 Solutions for CodeSignal.
+
+### Koans
+
+Solutions for Koans.
